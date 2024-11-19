@@ -1,9 +1,9 @@
 # Sales_EDA
 
-## Q1: What is the average rating for each product category?
+### Q1: What is the average rating for each product category?
 Ans.==>most product categories have generally positive customer feedback, with average ratings above 4.14. However, some categories have lower ratings, suggesting potential areas for improvement
 
-Q2: What are the top rating_count products by category?
+### Q2: What are the top rating_count products by category?
 ans--> Products with the highest review counts within their categories might be considered potential top sellers, even without direct sales data.
 
 top 10 product by rating
@@ -20,7 +20,7 @@ Amazon Basics HDMI Coupler,Black
 Faber-Castell Connector *Pen Set *- Pack of 25 .
 
 
-Q3: What are the most popular product name?
+### Q3: What are the most popular product name?
 
 Fire-Boltt Ninja **Call Pro Plus 1.83" Smart Watch **
 Fire-Boltt Phoenix Smart Watch with Bluetooth calling
@@ -34,7 +34,7 @@ Portronics Konnect L 1.2M Fast Charging 3A 8 P...
 boAt Deuce USB 300 2 in 1 Type-C & Micro USB S...
 
 
-Q4: What is the correlation between discounted_price and rating?
+### Q4: What is the correlation between discounted_price and rating?
 Discounted price and rating have a weak positive correlation. This means that products with higher discounted prices tend to have slightly higher ratings, but the relationship is not very strong.
 
 
