@@ -37,4 +37,6 @@ top 10 product by rating
 ### Q4: What is the correlation between discounted_price and rating?
 Discounted price and rating have a weak positive correlation. This means that products with higher discounted prices tend to have slightly higher ratings, but the relationship is not very strong.
 
+and So on ...
+
 
